@@ -29,10 +29,6 @@ For Software:
 - [Libraries used:Next.js & React,Tailwind CSS,ShadCN UI,Radix UI,Lucide React,class-variance-authority, clsx, and tailwind-merge,React Hook Form,Recharts]
 - [Tools used:VS Code,Firebase Studio,Git,Vercel]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
@@ -46,19 +42,19 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![https://drive.google.com/file/d/1ARADSW1fqP65RGA3LJ5U1YnNuhAkgr7C/view?usp=drive_link](HOME PAGE)
+![https://drive.google.com/file/d/1ARADSW1fqP65RGA3LJ5U1YnNuhAkgr7C/view?usp=drive_link]  (HOME PAGE)
 *It is the home page that helps to log the break*
 
-![https://drive.google.com/file/d/1y_pbpPUj0dnZGSWX_eWOb4VulkCUXVYn/view?usp=drive_link](Log the Break)
+![https://drive.google.com/file/d/1y_pbpPUj0dnZGSWX_eWOb4VulkCUXVYn/view?usp=drive_link]  (Log the Break)
 *It is a page for filling the details of friends that we meetup for tea break ,snack we chose and the budget spend*
 
-![https://drive.google.com/file/d/1iNTd8AGGVBmh5jTfqxDXES1RWeHH9__u/view?usp=drive_link](Streak tracker)
+![https://drive.google.com/file/d/1iNTd8AGGVBmh5jTfqxDXES1RWeHH9__u/view?usp=drive_link]  (Streak tracker)
 *Tracks the streak and maintain the data*
 
-![https://drive.google.com/file/d/1Y124CMC5YPmBeh7l3A5ucXwxeQh1Z353/view?usp=drive_link](Historian Facts)
+![https://drive.google.com/file/d/1Y124CMC5YPmBeh7l3A5ucXwxeQh1Z353/view?usp=drive_link]  (Historian Facts)
 *Generate some facts about tea and snacks*
 
-![https://drive.google.com/file/d/1SvtU2mY2ffhKMsVaYqad7VOmrlPlK-x0/view?usp=drive_link](Achievements)
+![https://drive.google.com/file/d/1SvtU2mY2ffhKMsVaYqad7VOmrlPlK-x0/view?usp=drive_link]  (Achievements)
 *Badges for completing certain tasks*
 
 
