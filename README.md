@@ -12,6 +12,7 @@
 - Team Lead: [Karthika C] - [NSS College Of Engineering]
 
 ### Project Description
+Hosted link:chai-chronicles.vercel.app
 [The **Chaya Kada Chronicles** is a whimsical web app that logs friends’ chai breaks with quirky “Chai Vibes,” absurd stats, and a goofy leaderboard, while picking snacks by budget with playful personalities. Built with HTML, CSS, JavaScript, and Firebase, it’s a delightfully useless ode to chai culture for the Useless Projects make-a-thon.]
 
 ### The Problem (that doesn't exist)
@@ -240,8 +241,9 @@ Shareable public demo link for friends/judges to try.
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+http://chai-chronicles.vercel.app
+[https://drive.google.com/file/d/1vVufw6HYlRfiPoyoAC_i0QvR3rY54CSe/view?usp=drive_link]
+*the full working of project*
 
 
 
